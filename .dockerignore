@@ -1,0 +1,5 @@
+src/.git
+src/.DS_Store
+src/.env
+src/.env.development
+src/node_modules
